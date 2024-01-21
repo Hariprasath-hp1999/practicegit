@@ -9,5 +9,10 @@
 9
 Scaler School of Technology 
 Scaler
+<<<<<<< HEAD
 Hari is super awesome
 SOftware Develpment m
+=======
+Hari is duper awesome
+SOftware Develpment dffd
+>>>>>>> feature-1
